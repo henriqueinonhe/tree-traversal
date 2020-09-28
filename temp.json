@@ -1,0 +1,54 @@
+{
+  "data": 0,
+  "children": [
+    {
+      "data": 2,
+      "children": [
+        {
+          "data": 3,
+          "children": [
+            {
+              "data": 4,
+              "children": []
+            },
+            {
+              "data": 5,
+              "children": []
+            }
+          ]
+        },
+        {
+          "data": 6,
+          "children": [
+            {
+              "data": 7,
+              "children": []
+            },
+            {
+              "data": 8,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "data": 9,
+      "children": [
+        {
+          "data": 10,
+          "children": [
+            {
+              "data": 11,
+              "children": []
+            }
+          ]
+        },
+        {
+          "data": 12,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
